@@ -26,6 +26,8 @@ La documentación de la API está disponible en [Swagger UI](http://localhost:50
 
 Este proyecto está dockerizado. Puedes construir y ejecutar la imagen con los siguientes comandos:
 
+Link:https://hub.docker.com/repository/docker/nahukappa/adoption-api/general
+
 1. Construir la imagen:
    ```bash
    docker build -t adoption-api .
